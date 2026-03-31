@@ -1,82 +1,78 @@
-# Senior Backend Engineer \| Microservices \| Cloud Architecture
+# 👋 Senior Backend & AI Engineer
 
-Welcome to my GitHub profile.
+Welcome to my GitHub!
 
-I am a Senior Backend Engineer with 9+ years of experience designing,
-modernizing, and scaling high-availability backend systems across SaaS,
-healthcare, HR, and AI-driven platforms.
+I am a **Senior AI & Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
 
-My expertise focuses on distributed systems, microservices architecture,
-and cloud-native solutions built on AWS and Azure.
+I design and implement **microservices, high-concurrency systems, and cloud-native solutions** on AWS and Azure, focusing on clean, maintainable code, performance, and reliability. I don’t just code — I **define architecture, scalability strategies, and long-term technical direction** to deliver intelligent, production-ready systems.
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Core Expertise
 
--   Microservices Architecture
--   Distributed Systems Design
--   Cloud-Native Backend Development
--   RESTful & GraphQL API Architecture
--   Monolith-to-Microservices Migration
--   Serverless Architecture (AWS Lambda, Azure Functions)
--   High-Concurrency & Performance Optimization
--   CI/CD & Containerized Deployments
+* Microservices & Distributed Systems Design
+* Cloud-Native Backend Development (AWS & Azure)
+* RESTful & GraphQL API Architecture
+* Monolith-to-Microservices Migration
+* Serverless Architecture (AWS Lambda, Azure Functions)
+* High-Concurrency Systems & Performance Optimization
+* AI Integration: LLMs, Chatbots, Virtual Try-On (VTO)
+* CI/CD & Containerized Deployments
 
-------------------------------------------------------------------------
+---
 
 ## 🛠 Tech Stack
 
-### Backend
+**Backend:**
+C# (.NET Core, ASP.NET Core) | Node.js | Python | Java (Spring Boot)
 
--   C# (.NET Core, ASP.NET Core)
--   Node.js
--   Python
--   Java (Spring Boot)
+**Frontend & AI Integration:**
+React | Next.js | Tailwind CSS | AI Models (LLMs, Chatbots, VTO)
 
-### Cloud & DevOps
+**Cloud & DevOps:**
+AWS | Azure | Docker | Kubernetes | CI/CD Pipelines
 
--   Amazon Web Services (AWS)
--   Microsoft Azure
--   Docker
--   Kubernetes
--   CI/CD Pipelines
+**Databases:**
+Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimization
 
-### Databases
-
--   Microsoft SQL Server
--   PostgreSQL
--   Entity Framework Core
--   Query Optimization
-
-------------------------------------------------------------------------
+---
 
 ## 🏗 What I Build
 
--   Scalable SaaS backends
--   Enterprise-grade microservices platforms
--   Secure API ecosystems
--   Cloud migration & modernization solutions
--   AI-integrated backend systems
+* Scalable SaaS Backends
+* Enterprise-Grade Microservices Platforms
+* Secure API Ecosystems
+* Cloud Migration & Modernization Solutions
+* AI-Integrated Web & SaaS Applications
 
-------------------------------------------------------------------------
+---
+
+## 💡 AI & Full-Stack Projects
+
+* **AI-Powered DJ Web Application** – React + Tailwind CSS + AI | [Demo](https://ai-dj-mixer-new.vercel.app/)
+  Interactive music mixing app with AI-assisted sound generation, beat suggestions, and real-time audio manipulation.
+
+* **Hotel Assistant System** – Next.js + Laravel + FastAPI + LLM + RAG | [Demo](https://entaai.net/)
+  AI-driven hotel assistant leveraging LLMs and Retrieval-Augmented Generation for intelligent guest interactions.
+
+* **Conversational Car Marketplace** – Next.js + FastAPI + LLM + PostgreSQL + Scraping | [Demo](https://askdrive-web.vercel.app/)
+  Conversational platform for car buyers and sellers integrating AI guidance, automated data scraping, and marketplace APIs.
+
+---
 
 ## 📈 Professional Focus
 
-I specialize in building backend systems that are:
+I specialize in backend systems that are:
 
--   Scalable
--   Maintainable
--   Cloud-optimized
--   Production-ready
--   Designed for long-term growth
+* **Scalable & High-Performance**
+* **Maintainable & Production-Ready**
+* **Cloud-Optimized & Future-Proof**
+* **Architected for Long-Term Growth**
 
-I bring architecture-level thinking, clean code practices, and
-system-wide performance awareness to every project.
+I bring **architecture-level thinking, clean code practices, and system-wide performance awareness** to every project.
 
-------------------------------------------------------------------------
+---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
-If you're building a scalable backend system, modernizing legacy
-architecture, or designing cloud-native infrastructure --- I'd be glad
-to collaborate.
+If you’re building a **scalable backend system, modernizing legacy architecture, or designing AI-integrated cloud-native solutions**, I’d be glad to collaborate.
