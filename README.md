@@ -52,10 +52,10 @@ Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimization
 * **AI-Powered DJ Web Application** – React + Tailwind CSS + AI | [Demo](https://ai-dj-mixer-new.vercel.app/)
   Interactive music mixing app with AI-assisted sound generation, beat suggestions, and real-time audio manipulation.
 
-* **Hotel Assistant System** – Next.js + Laravel + FastAPI + LLM + RAG | [Demo](https://entaai.net/)
+* **AI-Powered Hotel Assistant SaaS Platform** – Next.js + Laravel + FastAPI + LLM + RAG | [Demo](https://entaai.net/)
   AI-driven hotel assistant leveraging LLMs and Retrieval-Augmented Generation for intelligent guest interactions.
 
-* **Conversational Car Marketplace** – Next.js + FastAPI + LLM + PostgreSQL + Scraping | [Demo](https://askdrive-web.vercel.app/)
+* **AI-Powered Conversational Car Marketplace** – Next.js + FastAPI + LLM + PostgreSQL + Scraping | [Demo](https://askdrive-web.vercel.app/)
   Conversational platform for car buyers and sellers integrating AI guidance, automated data scraping, and marketplace APIs.
 
 ---
