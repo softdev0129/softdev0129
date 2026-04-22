@@ -1,8 +1,8 @@
 # 👋 Full-Stack Engineer
 
-I am a **Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
+**Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
 
-I design and implement **microservices, high-concurrency systems, and cloud-native solutions** on AWS and Azure, focusing on clean, maintainable code, performance, and reliability. I don’t just code — I **define architecture, scalability strategies, and long-term technical direction** to deliver intelligent, production-ready systems.
+Design and implement **microservices, high-concurrency systems, and cloud-native solutions** on AWS and Azure, focusing on clean, maintainable code, performance, and reliability. I don’t just code — I **define architecture, scalability strategies, and long-term technical direction** to deliver intelligent, production-ready systems.
 
 ---
 
@@ -31,7 +31,7 @@ React | Next.js | Tailwind CSS | AI Models (LLMs, Chatbots, VTO)
 AWS | Azure | Docker | Kubernetes | CI/CD Pipelines
 
 **Databases:**
-Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimization
+MySQL | Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimization
 
 ---
 
@@ -41,7 +41,7 @@ Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimization
 * Enterprise-Grade Microservices Platforms
 * Secure API Ecosystems
 * Cloud Migration & Modernization Solutions
-* AI-Integrated Web & SaaS Applications
+* AI-Powered Web & SaaS Applications
 
 ---
 
