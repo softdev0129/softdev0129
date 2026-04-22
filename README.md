@@ -1,8 +1,8 @@
-# 👋 Senior Full-Stack Engineer
+# 👋 Full-Stack Engineer
 
 Welcome to my GitHub!
 
-I am a **Senior Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
+I am a **Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
 
 I design and implement **microservices, high-concurrency systems, and cloud-native solutions** on AWS and Azure, focusing on clean, maintainable code, performance, and reliability. I don’t just code — I **define architecture, scalability strategies, and long-term technical direction** to deliver intelligent, production-ready systems.
 
