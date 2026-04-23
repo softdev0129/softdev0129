@@ -6,7 +6,7 @@ Design and implement **microservices, high-concurrency systems, and cloud-native
 
 ---
 
-## 🚀 Core Expertise
+## Core Expertise
 
 * Microservices & Distributed Systems Design
 * Cloud-Native Backend Development (AWS & Azure)
