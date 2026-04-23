@@ -35,7 +35,7 @@ MySQL | Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimi
 
 ---
 
-## 🏗 What I Build
+## What I Build
 
 * Scalable SaaS Backends
 * Enterprise-Grade Microservices Platforms
