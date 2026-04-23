@@ -1,4 +1,4 @@
-# 👋 Full-Stack Engineer
+# Full-Stack Engineer
 
 **Full-Stack Engineer** with 10+ years of experience building **scalable, cloud-native systems** across SaaS, healthcare, HR, and AI-driven platforms. I specialize in **backend architecture, full-stack development, and AI integration**, including **LLMs, chatbots, and Virtual Try-On (VTO) systems**.
 
@@ -19,7 +19,7 @@ Design and implement **microservices, high-concurrency systems, and cloud-native
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:**
 C# (.NET Core, ASP.NET Core) | Node.js | Python | Java (Spring Boot)
@@ -45,7 +45,7 @@ MySQL | Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimi
 
 ---
 
-## 💡 AI & Full-Stack Projects
+## AI & Full-Stack Projects
 
 * **AI-Powered DJ Web Application** – React + Tailwind CSS + AI | [Demo](https://ai-dj-mixer-new.vercel.app/)
   Interactive music mixing app with AI-assisted sound generation, beat suggestions, and real-time audio manipulation.
@@ -58,7 +58,7 @@ MySQL | Microsoft SQL Server | PostgreSQL | Entity Framework Core | Query Optimi
 
 ---
 
-## 📈 Professional Focus
+## Professional Focus
 
 I specialize in backend systems that are:
 
@@ -71,6 +71,6 @@ I bring **architecture-level thinking, clean code practices, and system-wide per
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 If you’re building a **scalable backend system, modernizing legacy architecture, or designing AI-integrated cloud-native solutions**, I’d be glad to collaborate.
